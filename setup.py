@@ -1,3 +1,5 @@
+"""Main setup file"""
+
 import setuptools
 
 setuptools.setup(

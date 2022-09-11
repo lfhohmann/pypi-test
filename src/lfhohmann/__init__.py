@@ -1,3 +1,3 @@
-""" Init package"""
+"""Init package"""
 
 from .helloworld import *
