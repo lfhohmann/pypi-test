@@ -6,7 +6,7 @@ setuptools.setup(
     name="lfhohmann",
     author="Lucas Hohmann",
     author_email="lfhohmann@gmail.com",
-    version="0.0.2",
+    version="0.0.3",
     description="Hello world from @lfhohmann!",
     keywords="example, pypi, package, helloworld",
     py_modules=["lfhohmann_test"],
